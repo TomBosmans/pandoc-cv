@@ -1,0 +1,105 @@
+body {
+  font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  max-width: 800px;
+  font-size: 16px;
+  margin: auto;
+  background: #ffffff;
+  color: #0f172b;
+  padding: 10px 10px 10px 10px;
+}
+
+h1 {
+  font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 50px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+sub {
+  font-size: 14px;
+  color: #45556c;
+}
+
+h2 {
+  font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol", "Noto Color Emoji";
+  color: #fb2c36;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h2:before,
+h2:after {
+  content: "";
+  flex-grow: 1;
+  font-size: 20px;
+  height: 5px;
+  background-color: #ffa2a2;
+  margin: 0 10px;
+}
+
+dt {
+  float: left;
+  clear: left;
+  width: 20%;
+  font-weight: bold;
+}
+
+dd {
+  margin-left: 20%;
+  margin-bottom: 7px;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+blockquote {
+  text-align: center;
+  color: #45556c;
+  padding: 0;
+  margin: 0;
+}
+
+table {
+  width: 100%;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+a {
+  font-size: 14px;
+  font-weight: normal;
+  text-decoration: none;
+  color: #45556c;
+}
+
+a:hover,
+a:active {
+  background-color: #ffa2a2;
+  color: #ffffff;
+  text-decoration: none;
+  text-shadow: 1px 1px 1px #333;
+}
+
+th {
+  border-right: 1px solid #45556c;
+  padding: 8px;
+  text-align: center;
+  padding: 0;
+}
+
+th:last-child {
+  border: none;
+}
+
+pre {
+  background-color: #e5e5e5;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
+    "Courier New", monospace;
+  padding: 5px;
+  border-radius: 5px;
+}
