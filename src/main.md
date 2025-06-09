@@ -37,7 +37,7 @@ title: Tom Bosmans
 
 : At Pau, I made the switch from Ruby to TypeScript, using Express, Node, and React with Redux to contribute to a larger application. I worked on adding new features, though this time there were no custom fields. I also dove deeper into SQL to improve the performance of data fetching. In the later years, my focus shifted to smaller applications using Nestjs and react, and the challenge became being able to switch between them seamlessly, which led me to learn Docker for local development. I also started exploring CI/CD, setting up GitHub Actions for testing and deployments. Along the way, I had to give up Emacs since I couldn't get the LSP working, briefly tried VSCode, but ultimately ended up with the best editor... nvim.
 
-2025-present
+2025 <br/> <sub>(3 months)</sub>
 : **As built**: Full-stack developer
 
 : At Asbuilt, I worked on a long-term project using NestJS with a React SPA, along with Prisma, Zod, and Jotai. My work involved building new features, fixing bugs, and contributing to the overall improvement of the application.
