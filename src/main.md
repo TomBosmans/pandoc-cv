@@ -20,7 +20,7 @@ title: Tom Bosmans
 2016-2016 <br/> <sub>(5 months)</sub>
 : **10to1**: Internship
 
-: During my internship at 10to1, I worked with Ruby on Rails to help rework an old application. The team was fantastic, and the experience really sparked my passion for programming. It also taught me some useful lessons, like how Caps Lock should be remapped to Control, how mechanical keyboards are actually pretty cool, and that macOS might not just be for snobs.
+: During my internship at 10to1, I worked with Ruby on Rails to rework an existing application. I learned both technical best practices and team habits that shaped my workflow — including the joy of mechanical keyboards and efficient keyboard-driven editing.
 
 2016-2018 <br/> <sub>(2 years, 1 month)</sub>
 : **Beeple**: Full-stack developer
@@ -37,20 +37,15 @@ title: Tom Bosmans
 
 : At Pau, I made the switch from Ruby to TypeScript, using Express, Node, and React with Redux to contribute to a larger application. I worked on adding new features, though this time there were no custom fields. I also dove deeper into SQL to improve the performance of data fetching. In the later years, my focus shifted to smaller applications using Nestjs and react, and the challenge became being able to switch between them seamlessly, which led me to learn Docker for local development. I also started exploring CI/CD, setting up GitHub Actions for testing and deployments. Along the way, I had to give up Emacs since I couldn't get the LSP working, briefly tried VSCode, but ultimately ended up with the best editor... nvim.
 
-2025 <br/> <sub>(3 months)</sub>
-: **As built**: Full-stack developer
+2025-→  
+: **Next step**: Full-stack developer
 
-: At Asbuilt, I worked on a long-term project using NestJS with a React SPA, along with Prisma, Zod, and Jotai. My work involved building new features, fixing bugs, and contributing to the overall improvement of the application.
-
-futre
-: **Unknown**: Full-stack developer?
-
-: Well, here you can influence how this story continues!
+: Open to new opportunities that build on my experience with TypeScript and Node, and excited to learn new languages, frameworks, and ways of working.
 
 <br/>
 
 ## Skills
-
+My stack, expressed in my favorite syntax:
 
 ```bash
 > echo $PROGRAMMING_LANGUAGES_PROFESSIONALLY
@@ -87,3 +82,18 @@ futre
 > echo $EDITOR
 # nvim
 ```
+
+### Can you see some of my work?
+
+I regularly document my technical work on my [blog](https://tombosmans.github.io/#/). A few posts that illustrate my interests and approach:
+
+- [Using Docker as a Development Environment](https://tombosmans.github.io/#/2025-10-23-docker-compose-as-dev-environment) — Streamlining local setup with Docker Compose.
+- [Dependency Injection in Practice](https://tombosmans.github.io/#/2025-10-21-dependency-injection) — A write-up based on how I’ve taught the concept to colleagues.
+- [Sending Emails in Node.js](https://tombosmans.github.io/#/2025-10-24-how-to-send-mails-in-node), also an example implementation can be seen [here](https://github.com/TomBosmans/playground/tree/main/mailer) — Covers setup, DX, and example [implementation](https://github.com/TomBosmans/playground/tree/main/mailer)
+
+I also have some [github](https://github.com/TomBosmans) repositories that might be interesting:
+
+- [pandoc-cv](https://github.com/TomBosmans/pandoc-cv) The Docker-based setup used to generate this CV.
+- [TomBosmans.github.io](https://github.com/TomBosmans/TomBosmans.github.io) — Source code for my blog.
+- [playground](https://github.com/TomBosmans/playground) — Experiments and reusable snippets (authentication, object storage, DI, etc.).
+- [dotfiles](https://github.com/TomBosmans/dotfiles) — My personal dev environment configuration.
